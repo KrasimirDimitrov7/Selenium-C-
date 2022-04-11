@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConsoleApp",
+    "\\ConsoleApp\\Pages",
+    "\\ConsoleApp\\Pages\\LoginPage",
+    "\\ConsoleApp\\Pages\\RegistrationPage",
+    "\\ConsoleApp\\Pages\\TemporaryMail",
+    "\\ConsoleApp\\Pages\\TemporaryMail\\TemporaryMail.Elements.cs",
+    "\\ConsoleApp\\Tests",
+    "\\ConsoleApp\\Utilities"
+  ],
+  "SelectedNode": "\\ConsoleApp\\FirstSeleniumTest.cs",
+  "PreviewInSolutionExplorer": false
+}
